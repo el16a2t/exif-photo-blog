@@ -12,12 +12,12 @@ export const SHOULD_PREFETCH_ALL_LINKS: boolean | undefined = undefined;
 
 // TEMPLATE META
 
-export const TEMPLATE_TITLE = 'Photo Blog';
-export const TEMPLATE_DESCRIPTION = 'Store photos with original camera data';
+export const TEMPLATE_TITLE = 'Photos - Adam Thompson';
+export const TEMPLATE_DESCRIPTION = 'photos.adamthompson.me';
 
 // SOURCE CODE
 
-export const TEMPLATE_REPO_OWNER  = 'sambecker';
+export const TEMPLATE_REPO_OWNER  = 'el16a2t';
 export const TEMPLATE_REPO_NAME   = 'exif-photo-blog';
 export const TEMPLATE_REPO_BRANCH = 'main';
 // eslint-disable-next-line max-len
